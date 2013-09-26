@@ -1,3 +1,3 @@
-FooCoin (FOO)
+chichicoin (CIC)
 
 Blah, blah, blah.
